@@ -1,2 +1,2 @@
 # TesteJSF
-Teste de projeto JSF
+Teste de criação de um projeto Java + JSF + PrimeFaces, rodando sobre um servidor WildFly.
